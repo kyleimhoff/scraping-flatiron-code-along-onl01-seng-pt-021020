@@ -15,7 +15,8 @@ class Scraper
       end
     end
   end
-  
+  def det_page
+    Nokogiri::HTML
 end
 
 
